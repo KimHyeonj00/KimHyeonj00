@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Hyeonjoo 👋
 
-<!--
-**KimHyeonj00/KimHyeonj00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+임베디드 / AI / ROS 개발 공부 중입니다.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Python
+- ROS2
+- Raspberry Pi
+- Linux
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+### TurtleBot AI
+사람 추적 자율주행 로봇 프로젝트
+
+### Smart CCTV
+YOLO 기반 객체탐지 시스템
+
+## 📫 Contact
+- Email: kimhyunju540@gmail.com
+- Email: rlaygusewns@naver.com
