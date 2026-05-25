@@ -20,8 +20,24 @@
 ## [Vocal_maestro_robot_system](https://github.com/sanghyeon-222/Vocal_Maestro_Robot_System)
 다중제어 로봇
 
-## Project
-AI 프로젝트
+## AI project
+프로젝트
+
+## 프로젝트
+프로젝트
+
+---
+
+# 📌 Side Projects
+
+## Digital_doorlock_system
+디지털 도어락 시스템
+
+## 은행창구
+TCP를 활용한 은행창구 시스템
+
+## RTC_Device_driver
+RTC_Device_driver
 
 ---
 
