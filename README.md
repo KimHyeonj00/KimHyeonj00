@@ -24,10 +24,12 @@
 
 -작업자 추종 로봇 제어 파트
 
-## [YOLO기반 시각장애인 전용 내비게이션]()
-프로젝트
+## [AI_navigation_for_visually_impaired](https://github.com/KimHyeonj00/AI_navigation_for_visually_impaired)
+-YOLO 기반 시각장애인 전용 내비게이션
 
-## 프로젝트
+-객체 인식 모델 학습 및 경량화
+
+## 프로젝트 진행중
 프로젝트
 
 ---
