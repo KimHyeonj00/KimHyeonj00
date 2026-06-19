@@ -14,13 +14,13 @@
 
 # 📌 Projects
 
-## [Site_inspection_robot](https://github.com/sanghyeon-222/site_inspection_robot)
-공사장 감시 로봇
+## [industrial_patrol_robot_slam_can](https://github.com/KimHyeonj00/industrial_patrol_robot_slam_can)
+SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇 - STM32/CAN 임베디드 제어 파트
 
-## [Vocal_maestro_robot_system](https://github.com/sanghyeon-222/Vocal_Maestro_Robot_System)
+## [Vocal_maestro_robot_system]()
 다중제어 로봇
 
-## AI project
+## [YOLO기반 시각장애인 전용 내비게이션]()
 프로젝트
 
 ## 프로젝트
