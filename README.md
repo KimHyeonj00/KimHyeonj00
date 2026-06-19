@@ -15,10 +15,14 @@
 # 📌 Projects
 
 ## [industrial_patrol_robot_slam_can](https://github.com/KimHyeonj00/industrial_patrol_robot_slam_can)
-SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇 - STM32/CAN 임베디드 제어 파트
+-SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇
 
-## [Vocal_maestro_robot_system]()
-다중제어 로봇
+-STM32/CAN 임베디드 제어 파트
+
+## [voice_based_multi_robot_control](https://github.com/KimHyeonj00/voice_based_multi_robot_control)
+-음성 인식 기반 다중 로봇 제어 시스템
+
+-작업자 추종 로봇 제어 파트
 
 ## [YOLO기반 시각장애인 전용 내비게이션]()
 프로젝트
