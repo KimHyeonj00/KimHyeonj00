@@ -6,6 +6,10 @@
 
 ## 🚀 Featured Projects
 
+### [Automotive-seat-ecu](https://github.com/KimHyeonj00/automotive-seat-ecu)
+-STM32 기반 자동차 좌석 제어 ECU 개발
+
+
 ### [industrial_patrol_robot_slam_can](https://github.com/KimHyeonj00/industrial_patrol_robot_slam_can)
 -SLAM 및 CAN 네트워크 기반 산업용 순찰 로봇
 
@@ -20,17 +24,6 @@
 -YOLO 기반 시각장애인 전용 내비게이션(Nuni)
 
 -객체 인식 모델 학습 및 경량화
-
-### 프로젝트 진행중
-프로젝트
-
----
-
-## 📂 Side Projects
-
-- **RTC Device Driver** - Linux Kernel Module, GPIO, RTC
-- **Digital Doorlock System** - C, GPIO, Keypad, LCD
-- **TCP 기반 은행창구 시스템** - C, TCP Socket, Linux
 
 
 ---
