@@ -23,7 +23,6 @@ STM32 기반 임베디드 제어와 CAN 통신을 중심으로
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-65C466?style=flat-square)
 
 ### Embedded / Communication
 
