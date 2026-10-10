@@ -26,23 +26,18 @@ STM32 기반 임베디드 제어와 CAN 통신을 중심으로
 
 ### Embedded / Communication
 
-`GPIO` `PWM` `ADC` `UART` `I2C` `SPI` `CAN (bxCAN / SocketCAN)`  
-`STM32 HAL` `STM32CubeMX` `Raspberry Pi`
+`GPIO` `PWM` `ADC` `UART` `I2C` `CAN` `STM32 HAL` `STM32CubeMX` `Raspberry Pi`
 
 ### Robotics / AI
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-`ROS2` `Nav2` `OpenCV` `YOLO` `TFLite`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  `ROS2` `Nav2` `OpenCV` `YOLO` `TFLite`
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-`STM32CubeIDE` `GCC` `Make` `CMake` `VS Code`
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  `STM32CubeIDE` `GCC` `Make` `CMake` `VS Code`
 
 ---
 
