@@ -58,7 +58,7 @@ STM32 기반 임베디드 제어와 CAN 통신을 중심으로
 ---
 
 ### 🤖 [Industrial Patrol Robot](https://github.com/KimHyeonj00/industrial_patrol_robot_slam_can)
-**STM32 · CAN · ROS2 · Raspberry Pi · Sensor Integration**
+**STM32 · CAN · Sensor Integration**
 
 > 공사장 환경을 순찰하며 위험 요소를 감지하고 경고하는 자율주행 로봇
 
