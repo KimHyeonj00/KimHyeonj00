@@ -52,7 +52,6 @@ STM32 기반 임베디드 제어와 CAN 통신을 중심으로
 - CAN 명령/상태 메시지 송수신 및 좌석 제어 로직 구현
 - INA226 전류 센서를 활용한 모터 부하 측정 및 끼임 감지 로직 구현
 - 메인 제어기 · ECU · 센서 · 구동부 HW 통합 및 동작 검증
-- 감시 노드 Heartbeat 이상 발생 시 `SAFE_ABORT` 메시지를 통한 긴급 정지 구현
 - 🏆 **Intel Edge AI SW Academy 최종 프로젝트 경진대회 대상**
 
 
@@ -65,14 +64,13 @@ STM32 기반 임베디드 제어와 CAN 통신을 중심으로
 
 - 팀장 및 STM32F429 기반 제어부 개발 담당
 - 센서 입력, LED/Buzzer 출력 및 CAN 통신 펌웨어 구현
-- Raspberry Pi와 다수 MCU 간 CAN 기반 분산 제어 구성
 - 서보모터 오동작 원인을 전원 공급 및 GND 관점에서 분석
 - 전원 분리 및 공통 GND 구성으로 구동 안정성 확보
 - 전체 하드웨어 배선 및 시스템 통합
 
 ---
 
-### 👁 [Nuni — Navigation for the Visually Impaired](https://github.com/KimHyeonj00/AI_navigation_for_visually_impaired)
+<!-- ### 👁 [Nuni — Navigation for the Visually Impaired](https://github.com/KimHyeonj00/AI_navigation_for_visually_impaired)
 **YOLO11 · TFLite · OpenCV · Android**
 
 > 보행 중 점자블록과 장애물을 실시간으로 인식해 사용자에게 안내하는 보행 보조 시스템
@@ -84,7 +82,7 @@ STM32 기반 임베디드 제어와 CAN 통신을 중심으로
 - 모바일 환경에서 약 16 FPS 수준의 추론 성능 검증
 
 ---
-
+-->
 ### 🤖 [Vocal Maestro — Voice-Controlled Multi-Robot System](https://github.com/KimHyeonj00/voice_based_multi_robot_control)
 **ROS2 · YOLOv5 · RealSense D435 · Raspberry Pi**
 
